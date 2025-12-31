@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    int choice;
+    int choice; 
 
     while (1) {
         printf("\n====== CMD Shortcut Menu ======\n");
